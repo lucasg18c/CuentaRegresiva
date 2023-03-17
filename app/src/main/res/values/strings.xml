@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CuentaRegresiva</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="nombre_canal_cataratas">Cuenta regresiva</string>
+    <string name="descripcion_canal_cataratas">Cuantos días quedan hasta el viaje.</string>
+    <string name="id_canal_cataratas">CUENTA_REGRESIVA_CATARATAS</string>
+    <string name="nombre_canal_covid">Cuenta regresiva de aislamiento</string>
+    <string name="descripcion_canal_covid">Cuantos días quedan de aislamiento.</string>
+    <string name="id_canal_covid">CUENTA_REGRESIVA_COVID</string>
+
+</resources>
